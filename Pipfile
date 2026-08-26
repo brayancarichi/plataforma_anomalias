@@ -11,6 +11,7 @@ name = "pytorch_cpu"
 [packages]
 torch = {version = "*", index = "pytorch_cpu"}
 torchvision = {version = "*", index = "pytorch_cpu"}
+opencv-python-headless = "*"
 streamlit = "*"
 pandas = "*"
 openpyxl = "*"
